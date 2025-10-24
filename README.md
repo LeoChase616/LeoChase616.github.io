@@ -1,1 +1,1 @@
-<a href="BeastQuestHome.html">Return </a>
+<a href="BeastQuestHome.html">Beast Quest Website </a>
